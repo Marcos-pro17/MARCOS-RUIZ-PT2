@@ -2,11 +2,11 @@ Para comenzar la instalación utilizaremos una maquina virtual llamada Isard VDI
 
 Primero buscamos el sitio web en internet o en nuestro navegador.
 
-<img src="2025-05-06_13-19.png" alt="">
+<img src="Isard.png" alt="">
 
 Entramos en el link marcado.
 
-<img src="Isard.png" alt="">
+<img src="2025-05-06_13-19.png" alt="">
 
 Iniciamos sesión con nuestro Usuario y contraseña 
 
