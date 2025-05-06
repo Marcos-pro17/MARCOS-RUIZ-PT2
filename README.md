@@ -7,4 +7,4 @@ Aqui os dejo los dos manuales que explican todo:
 
 Manual de instalación de Owncloud con virtualización utilizando Isard VDI -> https://github.com/Marcos-pro17/MARCOS-RUIZ-PT2/blob/main/INSTALLATION.md
 
-Manual de configuración de la Owncloud ->
+Manual de configuración de la Owncloud -> https://github.com/Marcos-pro17/MARCOS-RUIZ-PT2/blob/main/CONFIGURATION.md
