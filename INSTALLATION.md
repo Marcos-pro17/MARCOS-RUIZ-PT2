@@ -67,27 +67,63 @@ Creación de la base de datos
 
 Creación de un usuario
 
-<img src="" alt=""> 
+<img src="usuario database.png" alt=""> 
 
 Conceder privilegios al usuario
 
-<img src="" alt=""> 
+<img src="privilegios.png" alt=""> 
 
 Salir de la base de datos
 
-<img src="" alt=""> 
+<img src="exit.png" alt=""> 
 
 Probar la conexión a la base de datos
 
-<img src="" alt=""> 
+<img src="comprobación mysql.png" alt=""> 
 
-<img src="" alt=""> 
-
-
+<img src="comprobación mysql 2.png" alt=""> 
 
 
+# Descargamos los archivos de la aplicación web
+En este punto deberemos descargar el archivo donde esta la cloud: https://download.nextcloud.com/server/releases/latest.zip .
 
+Después de descargar seguimos estos pasos.
 
+- Vamos al directorio /var/www/html.
+  <img src="" alt="">
+
+- Copiamos la carpeta descargas y el archivo descargado en /var/www/html y descomprimimos el archivo.
+
+  <img src="" alt="">
+
+  <img src="" alt="">
+
+- Eliminamos la carpeta creada al descomprimir
+
+  <img src="" alt="">
+
+- Eliminamos el archivo index.html por defecto de Apache2
+
+  <img src="" alt="">
+
+# Aplicamos permisos a nuestra aplicación web
+
+<img src="" alt="">
+
+Accedemos al navegador para comprobar que todo funciona
+
+Introduce la dirección http://localhost en tu navegador web y continúa con la configuración de la aplicación
+
+<img src="" alt="">
+
+<img src="" alt="">
+
+Para iniciar sesión ponemos estos datos:
+
+Usuario: usuario
+Contraseña: password
+Base de datos: bbdd
+Dominio: localhost
 
 
 
