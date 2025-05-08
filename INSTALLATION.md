@@ -34,9 +34,9 @@ Y desde este panel añadimos: CPUS, memoria y dejamos los videos tal y como esta
 1. Actualització de la màquina.
 
 
-<img src="" alt="">
+<img src="sudo apt update.png" alt="">
 
-<img src="" alt="">
+<img src="sudo upgrade.png" alt="">
 
 2. Instal·lació del servidor web apache2.
 
