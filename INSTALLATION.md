@@ -114,7 +114,7 @@ Accedemos al navegador para comprobar que todo funciona
 
 Introduce la dirección http://localhost en tu navegador web y continúa con la configuración de la aplicación
 
-<img src="locahost.png" alt="">
+<img src="localhost.png" alt="">
 
 <img src="cloud.png" alt="">
 
