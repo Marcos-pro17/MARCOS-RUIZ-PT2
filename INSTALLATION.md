@@ -11,7 +11,7 @@ Entramos en el link marcado.
 
 Iniciamos sesión con nuestro Usuario y contraseña 
 
-<img src="usuario y contraseña.png" alt="">
+<img src="usuario y contraseña isard.png" alt="">
 
 Creamos un escritorio nuevo.
 
