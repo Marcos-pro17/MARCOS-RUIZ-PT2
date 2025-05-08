@@ -39,31 +39,31 @@ Y desde este panel añadimos: CPUS, memoria y dejamos los videos tal y como esta
 
 3. Instalación del servidor web apache2
    
-<img src="" alt="">
+<img src="sudo install apache.png" alt="">
 
 5. Instalación del servidor de bases de datos mysql-server
    
-<img src="" alt="">
+<img src="sudo install mysql.png" alt="">
 
 6. Instalación de algunas librerías de PHP, el lenguaje principal que utilizan las aplicaciones
    
-<img src="" alt="">
+<img src="librerias 1.png" alt="">
 
-<img src="" alt="">
+<img src="librias 2.png" alt="">
 
 7. Reiniciamos el servidor apache2
    
-<img src="" alt="">
+<img src="reset apache.png" alt="">
 
 ## Configuración de MySQL
 
 Accedemos a la consola de MySQL
 
-<img src="" alt=""> 
+<img src="consola mysql.png" alt=""> 
 
 Creación de la base de datos
 
-<img src="" alt=""> 
+<img src="database.png" alt=""> 
 
 Creación de un usuario
 
