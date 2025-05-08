@@ -59,7 +59,7 @@ Y desde este panel añadimos: CPUS, memoria y dejamos los videos tal y como esta
 
 Accedemos a la consola de MySQL
 
-<img src="consola mysql.png" alt=""> 
+<img src="consola msql.png" alt=""> 
 
 Creación de la base de datos
 
