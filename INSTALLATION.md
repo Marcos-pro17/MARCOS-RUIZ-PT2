@@ -31,47 +31,57 @@ Y desde este panel añadimos: CPUS, memoria y dejamos los videos tal y como esta
 
 # Owncloud
 
-1. Actualització de la màquina.
-
-
+1. Actualización de la máquina
+   
 <img src="sudo apt update.png" alt="">
 
 <img src="sudo upgrade.png" alt="">
 
-2. Instal·lació del servidor web apache2.
+3. Instalación del servidor web apache2
+   
+<img src="" alt="">
+
+5. Instalación del servidor de bases de datos mysql-server
+   
+<img src="" alt="">
+
+6. Instalación de algunas librerías de PHP, el lenguaje principal que utilizan las aplicaciones
+   
+<img src="" alt="">
 
 <img src="" alt="">
 
-3. Instal·lació del servidor de bases de dades mysql-server.
-
+7. Reiniciamos el servidor apache2
+   
 <img src="" alt="">
 
-4. Instal·lació d'algunes llibreries de php, el llenguatge principal que utilitzen les aplicacions.
+## Configuración de MySQL
 
-<img src="" alt="">
+Accedemos a la consola de MySQL
 
-<img src="" alt="">
+<img src="" alt=""> 
 
-5. Reiniciem el servidor apache2
+Creación de la base de datos
 
-<img src="" alt="">
+<img src="" alt=""> 
 
-### Configuració de MySQL
+Creación de un usuario
 
-Accedim a la consola de MySQL
+<img src="" alt=""> 
 
-<img src="" alt="">
+Conceder privilegios al usuario
 
+<img src="" alt=""> 
 
+Salir de la base de datos
 
+<img src="" alt=""> 
 
+Probar la conexión a la base de datos
 
+<img src="" alt=""> 
 
-
-
-
-
-
+<img src="" alt=""> 
 
 
 
