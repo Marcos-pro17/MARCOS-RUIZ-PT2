@@ -85,7 +85,7 @@ Probar la conexión a la base de datos
 
 
 # Descargamos los archivos de la aplicación web
-En este punto deberemos descargar el archivo donde esta la cloud: https://download.nextcloud.com/server/releases/latest.zip .
+En este punto deberemos descargar el archivo donde esta la cloud: https://download.owncloud.com/server/stable/owncloud-complete-20240724.zip 
 
 Después de descargar seguimos estos pasos.
 
