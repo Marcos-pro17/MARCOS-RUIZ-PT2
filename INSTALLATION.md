@@ -90,33 +90,33 @@ En este punto deberemos descargar el archivo donde esta la cloud: https://downlo
 Después de descargar seguimos estos pasos.
 
 - Vamos al directorio /var/www/html.
-  <img src="" alt="">
+  <img src="cd.png" alt="">
 
 - Copiamos la carpeta descargas y el archivo descargado en /var/www/html y descomprimimos el archivo.
 
-  <img src="" alt="">
+  <img src="cp.png" alt="">
 
-  <img src="" alt="">
+  <img src="unzip.png" alt="">
 
 - Eliminamos la carpeta creada al descomprimir
 
-  <img src="" alt="">
+  <img src="eliminar carpeta.png" alt="">
 
 - Eliminamos el archivo index.html por defecto de Apache2
 
-  <img src="" alt="">
+  <img src="eliminar index.png" alt="">
 
 # Aplicamos permisos a nuestra aplicación web
 
-<img src="" alt="">
+<img src="permisos.png" alt="">
 
 Accedemos al navegador para comprobar que todo funciona
 
 Introduce la dirección http://localhost en tu navegador web y continúa con la configuración de la aplicación
 
-<img src="" alt="">
+<img src="locahost.png" alt="">
 
-<img src="" alt="">
+<img src="cloud.png" alt="">
 
 Para iniciar sesión ponemos estos datos:
 
