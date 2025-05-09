@@ -140,24 +140,25 @@ Instalar librerias PHP 7.4
 
 Seleccionar version de PHP
 
-<img src="" alt="">
+<img src="versión.png" alt="">
+
+<img src="versión 2.png" alt="">
 
 Activa los modulos de apache2
 
-<img src="" alt="">
+<img src="modulo.png" alt="">
 
-<img src="" alt="">
+<img src="modulo 2.png" alt="">
 
 Reinicia el apache
 
-<img src="" alt="">
+<img src="reset.png" alt="">
 
 
+Ahora ya volvemos a probar, buscamos en el navegador y comprobamos si sale nuestra owncloud.
 
 
-
-
-<img src="" alt="">
+<img src="owncloud.png" alt="">
 
 
 Para iniciar sesión ponemos estos datos:
