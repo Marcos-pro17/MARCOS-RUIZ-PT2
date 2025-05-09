@@ -116,7 +116,49 @@ Introduce la dirección http://localhost en tu navegador web y continúa con la 
 
 <img src="localhost.png" alt="">
 
-<img src="cloud.png" alt="">
+En este momento nos daremos cuenta que debemos cambiar la version de PHP si estamos en una mas avanzada de la que permite owncloud.
+
+Instalar los requisitos previos para PPA
+
+<img src="" alt="">
+
+Instalar las herrmaientas necesarias
+
+<img src="" alt="">
+
+Actualizar los repositorios del sistema
+
+<img src="" alt="">
+
+Instalar librerias PHP 7.4
+
+<img src="" alt="">
+
+<img src="" alt="">
+
+<img src="" alt="">
+
+Seleccionar version de PHP
+
+<img src="" alt="">
+
+Activa los modulos de apache2
+
+<img src="" alt="">
+
+<img src="" alt="">
+
+Reinicia el apache
+
+<img src="" alt="">
+
+
+
+
+
+
+<img src="" alt="">
+
 
 Para iniciar sesión ponemos estos datos:
 
