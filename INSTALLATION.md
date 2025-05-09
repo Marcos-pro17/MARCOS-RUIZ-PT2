@@ -120,23 +120,23 @@ En este momento nos daremos cuenta que debemos cambiar la version de PHP si esta
 
 Instalar los requisitos previos para PPA
 
-<img src="" alt="">
+<img src="PPA.png" alt="">
 
 Instalar las herrmaientas necesarias
 
-<img src="" alt="">
+<img src="herramientas.png" alt="">
 
 Actualizar los repositorios del sistema
 
-<img src="" alt="">
+<img src="actualizar.png" alt="">
 
 Instalar librerias PHP 7.4
 
-<img src="" alt="">
+<img src="PHP.png" alt="">
 
-<img src="" alt="">
+<img src="PHP 2.png" alt="">
 
-<img src="" alt="">
+<img src="PHP 3.png" alt="">
 
 Seleccionar version de PHP
 
