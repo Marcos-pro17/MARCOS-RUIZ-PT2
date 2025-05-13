@@ -213,7 +213,7 @@ Donde pone "trusted_domains" añadimos una linea debajo de 0 => 'localhost' y po
 
 <img src="acceso 4.png" alt="">
 
-Ahora ya deberia funcionar desde una maquina de la misma red.
+Ahora ya deberia funcionar si probamos a poner https:// 192.168.121.125 desde otra maquina con la misma red local.
 
 
 
