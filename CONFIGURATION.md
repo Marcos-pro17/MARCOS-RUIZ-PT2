@@ -90,35 +90,35 @@ Ahora para dar permisos a cada uno de ellos en documentos
 
 Vamos a la pagina principal donde tenemos todo lo nuestro.
 
-<img src="permisos.png" alt="">
+<img src="Permisos.png" alt="">
 
 Seguidamente hacemos lo mismo que si fueramos a compartir el documento o la carpeta.
 
-<img src="permisos 2.png" alt="">
+<img src="Permisos 2.png" alt="">
 
 Nos vamos a la parte del sharing
 
-<img src="permisos 3.png" alt="">
+<img src="Permisos 3.png" alt="">
 
 Cuando ya estemos allí hacemos clic en la parte de "users and groups".
 
-<img src="permisos 4.png" alt="">
+<img src="Permisos 4.png" alt="">
 
 Allí añadimos los roles previamente creados.
 
-<img src="permisos 5.png" alt="">
+<img src="Permisos 5.png" alt="">
 
 Despues de añadir el rol hacemos clic en la rueda que hay y se nos desplegara un panel.
 
-<img src="permisos 6.png" alt="">
+<img src="Permisos 6.png" alt="">
 
 Ahi podremos elegir nuestros permisos para cada rol.
 
-<img src="permisos 7.png" alt="">
+<img src="Permisos 7.png" alt="">
 
 Al editor, le he puesto que pueda gestionar el documento, pero que no pueda borrar ni crear y al visualizador, le he quitado todos los permisos para que solo pueda ver.
 
-<img src="permisos 8.png" alt="">
+<img src="Permisos 8.png" alt="">
 
 ## Organizar archivos y carpetas 
 
