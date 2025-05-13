@@ -162,7 +162,7 @@ Vamos a nuestros archivos
 
 Hacemos clic en los tres puntos que tiene cada uno de nuestros archivos.
 
-<img src="cambiar nombre 2.png" alt="">
+<img src="cabiar nombre 2.png" alt="">
 
 Ahora nos saldra un panel, deberemos fijarnos en el botón que pone "rename".
 
