@@ -60,7 +60,7 @@ Alli nos abrira un panel donde nos debemos fijar en la pestaña que pone "Users"
 
 Después de entrar en users, en el centro del panel sale unas indicaciones que deberemos rellenar y hacer clic en "create user".
 
-<img src="usuarios 3. " alt="">
+<img src="usuarios 3.png" alt="">
 
 Finalmente tendremos creados todos los usuarios que queramos.
 
