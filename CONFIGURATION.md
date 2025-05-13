@@ -86,7 +86,7 @@ Para cambiar de rol a cada uno de los usuarios nos vamos a ellos y en la pestañ
 
 <img src="usuarios 8.png" alt="">
 
-Ahora para dar permisos a cada uno de ellos en documentos 
+### Ahora pasaremos a dar permisos a los usuarios
 
 Vamos a la pagina principal donde tenemos todo lo nuestro.
 
