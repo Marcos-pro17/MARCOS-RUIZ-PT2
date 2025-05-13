@@ -12,7 +12,7 @@ Manual de configuración de la Owncloud -> https://github.com/Marcos-pro17/MARCO
 
 
 
-Problemas que he encontrado:
+### Problemas que he encontrado:
 
 En la instalación:
 - El unico problema de la instalación fue que la versión de owncloud solo permitia una versiíon de PHP igual o menor a la 7.4 y nosotros teniamos la 8.0. Entonces debimos cambiar esa versión a la 7.4 o a alguna menor para poder entrar a la owncloud.
