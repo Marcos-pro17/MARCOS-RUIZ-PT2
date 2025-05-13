@@ -12,7 +12,7 @@ Vamos donde pone subidas.
 
 Seleccionamos el archivo que queremos subir.
 
-<img src="archivos 3.png" alt="">
+<img src="archivo 3.png" alt="">
 
 Ya tendriamos nuestro archivo subido.
 
