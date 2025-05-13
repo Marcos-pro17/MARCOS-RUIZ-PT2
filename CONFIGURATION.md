@@ -80,7 +80,7 @@ Allí elegiremos el nombre de nuestro rol.
 
 Y finalmente lo crearemos.
 
-<img src="usuarios 7png" alt="">
+<img src="usuarios 7.png" alt="">
 
 Para cambiar de rol a cada uno de los usuarios nos vamos a ellos y en la pestaña donde pone admin hacemos clic y los cambiamos.
 
